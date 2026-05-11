@@ -219,8 +219,8 @@ The name of the organization shall be **The Ned Workshop** (the "Corporation"), 
 
 The undersigned, being the Secretary of The Ned Workshop, hereby certifies that the foregoing Bylaws were adopted by the Board of Directors at a duly called and held meeting on the date set forth below.
 
-**Adopted:** _______________________
+**Adopted:** 2026-05-10
 
-**Secretary:** _______________________
+**Secretary:** Matt Robinson
 
 **Signature:** _______________________
