@@ -1,7 +1,5 @@
 # The Ned Workshop Bylaws
 
-*Draft — pending Board adoption. These bylaws should be reviewed by qualified legal counsel before adoption.*
-
 ## Table of Contents
 
 - [Article I — Name](#article-i--name)
